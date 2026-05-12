@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Logs
+*.log
+
+# FAISS Index
+data/faiss_index/
+
+# Dataset
+data/raw/
+
+# Environment Variables
+.env
+
+# Streamlit Cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
